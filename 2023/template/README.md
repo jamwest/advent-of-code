@@ -1,6 +1,6 @@
 # Advent of Code - Day [DAY_NUMBER]
 
-## Problem Description
+## [NAME_OF_THE_PROBLEM]
 
 [DESCRIPTION_OF_THE_PROBLEM]
 
