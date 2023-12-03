@@ -20,7 +20,7 @@ func main() {
 	line, _, err := buf.ReadLine()
 	check(err)
 
-	print(string(line))
+	println(string(line))
 
 	f.Close()
 }
