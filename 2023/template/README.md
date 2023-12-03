@@ -1,0 +1,21 @@
+# Advent of Code - Day [DAY_NUMBER]
+
+## Problem Description
+
+[DESCRIPTION_OF_THE_PROBLEM]
+
+### Part One
+
+[INSTRUCTIONS_FOR_PART_ONE]
+
+### Part Two
+
+[INSTRUCTIONS_FOR_PART_TWO]
+
+## Solution
+
+[EXPLANATION_OF_THE_SOLUTION]
+
+## Notes
+
+[ANY_ADDITIONAL_NOTES_OR_OBSERVATIONS]
