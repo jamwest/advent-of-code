@@ -1,6 +1,6 @@
 # Advent of Code Repository
 
-This repository is dedicated to my attempts at solving the Advent of Code challenges each year. The Advent of Code is an annual event where participants solve a series of programming puzzles throughout the month of December. You can attempt these yourself at [adevnt of code.](https://adventofcode.com/)
+This repository is dedicated to my attempts at solving the Advent of Code challenges each year. The Advent of Code is an annual event where participants solve a series of programming puzzles throughout the month of December. You can attempt these yourself at [advent of code.](https://adventofcode.com/)
 
 ## Structure
 
