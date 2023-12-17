@@ -39,4 +39,6 @@ Consider your entire calibration document. What is the sum of all of the calibra
 
 ## Notes
 
-[ANY_ADDITIONAL_NOTES_OR_OBSERVATIONS]
+In Part One I had a bug where I stopped my second loop too early `for i := len(lines) - 1 ; i > 0 ; i-- {`. In hindsight I should have made some test cases before starting, this was only an issue when there was only 1 number and it is was at the 0th position which was difficult to debug using the full data set. 
+
+In Part Two I had another interesting case which made me pivot my solution, a simple case of "twone" was outputting 22 where it should have been 21. I found that golang regexp doesn't do overlapping matches, instead of finding all matches I ended up matching on the first and then matching on the first of the reverse.
